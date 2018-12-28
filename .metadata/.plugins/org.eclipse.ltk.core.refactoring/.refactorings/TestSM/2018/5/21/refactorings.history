@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 6 elements from project &apos;TestSM&apos;&#x0D;&#x0A;- Original project: &apos;TestSM&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.mlq.sm.Cipher.java&#x0D;&#x0A;     com.mlq.sm.SM2.java&#x0D;&#x0A;     com.mlq.sm.SM2Utils.java&#x0D;&#x0A;     com.mlq.sm.SM3.java&#x0D;&#x0A;     com.mlq.sm.SM3Digest.java&#x0D;&#x0A;     com.mlq.sm.Util.java" description="Delete elements" element1="/connectorModule&lt;com.mlq.sm{SM2.java" element2="/connectorModule&lt;com.mlq.sm{SM3Digest.java" element3="/connectorModule&lt;com.mlq.sm{Cipher.java" element4="/connectorModule&lt;com.mlq.sm{Util.java" element5="/connectorModule&lt;com.mlq.sm{SM2Utils.java" element6="/connectorModule&lt;com.mlq.sm{SM3.java" elements="6" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1526785994863" subPackages="false" version="1.0"/>
+</session>
